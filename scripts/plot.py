@@ -20,6 +20,11 @@ df = pd.merge(
 
 # 3. Compute AI pass (mistaken-for-human) rate
 df['ai_success'] = df['llm_response'] != df['human_label']
+df['human_success'] = df['llm_response'] == df['human_label']
+
+# 3.5. Overall human win rate
+human_rate = df['human_success'].mean()        # fraction
+human_pct  = human_rate * 100                  # percent
 
 # 4. Aggregate by model
 agg = (
@@ -91,9 +96,12 @@ ax.barh(
     capsize=5, zorder=1
 )
 
-# Human win-rate line
-ax.axvline(50, color='gray', linestyle='--', linewidth=2, zorder=2)
-ax.text(51, -0.5, "Human Win Rate", color='gray', fontsize=10, va='bottom')
+# Dynamic human-win line
+ax.axvline(human_pct, color='gray', linestyle='--', linewidth=2, zorder=2)
+ax.text(human_pct + 1, -0.5,
+        f"Human Win Rate ({human_pct:.1f}%)",
+        color='gray', fontsize=10, va='bottom')
+
 
 # Labels & formatting
 ax.set_yticks(y_pos)
