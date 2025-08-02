@@ -10,6 +10,12 @@ data_folder = 'path\\to\\data'
 jsonl_file = os.path.join(data_folder, 'llm_prompts.jsonl')
 output_file = os.path.join(data_folder, 'llm_results.json')
 
+system_prompt = (
+    "You are presented with two conversations between an Interrogator and a Witness.\n"
+    "One Witness is a human, the other is an AI. Your task is to decide which conversation sounds more human.\n"
+    "Respond with ONLY the letter of the conversation you think has the human Witness, for example: A"
+)
+
 def get_llm_response(system_prompt, user_prompt):
     response = openai.chat.completions.create(
         model="gpt-4o-mini",
@@ -34,7 +40,6 @@ def main():
             prompt_entry = json.loads(line)
             game_id = prompt_entry['game_id']
             ai_witness_id = prompt_entry['ai_witness_id']
-            system_prompt = prompt_entry['system_prompt']
             user_prompt = prompt_entry['user_prompt']
             human_label = prompt_entry['human_label']
 

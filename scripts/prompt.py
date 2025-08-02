@@ -76,7 +76,6 @@ Conversation B
         'game_id': int(game_id),
         'ai_witness_id': int(convo_A['ai_witness_id']),
         'human_label': human_label,
-        'system_prompt': system_prompt,
         'user_prompt': user_prompt
     })
 
