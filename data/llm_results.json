@@ -1,0 +1,6842 @@
+[
+  {
+    "game_id": 1700,
+    "ai_witness_id": 3386,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1701,
+    "ai_witness_id": 3388,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1702,
+    "ai_witness_id": 3390,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1703,
+    "ai_witness_id": 3392,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1704,
+    "ai_witness_id": 3394,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1705,
+    "ai_witness_id": 3396,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1706,
+    "ai_witness_id": 3398,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1707,
+    "ai_witness_id": 3400,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1708,
+    "ai_witness_id": 3402,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1709,
+    "ai_witness_id": 3404,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1710,
+    "ai_witness_id": 3406,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1713,
+    "ai_witness_id": 3412,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1714,
+    "ai_witness_id": 3414,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1715,
+    "ai_witness_id": 3416,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1716,
+    "ai_witness_id": 3418,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1717,
+    "ai_witness_id": 3420,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1718,
+    "ai_witness_id": 3422,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1719,
+    "ai_witness_id": 3424,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1720,
+    "ai_witness_id": 3426,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1721,
+    "ai_witness_id": 3428,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1722,
+    "ai_witness_id": 3430,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1725,
+    "ai_witness_id": 3436,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1726,
+    "ai_witness_id": 3438,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1727,
+    "ai_witness_id": 3440,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1729,
+    "ai_witness_id": 3444,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1730,
+    "ai_witness_id": 3446,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1731,
+    "ai_witness_id": 3448,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1732,
+    "ai_witness_id": 3450,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1733,
+    "ai_witness_id": 3452,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1735,
+    "ai_witness_id": 3456,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1736,
+    "ai_witness_id": 3458,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1737,
+    "ai_witness_id": 3460,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1738,
+    "ai_witness_id": 3462,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1739,
+    "ai_witness_id": 3464,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1740,
+    "ai_witness_id": 3466,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1741,
+    "ai_witness_id": 3468,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1742,
+    "ai_witness_id": 3470,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1743,
+    "ai_witness_id": 3472,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1744,
+    "ai_witness_id": 3474,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1745,
+    "ai_witness_id": 3476,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1746,
+    "ai_witness_id": 3478,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1747,
+    "ai_witness_id": 3480,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1748,
+    "ai_witness_id": 3482,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1750,
+    "ai_witness_id": 3485,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1751,
+    "ai_witness_id": 3487,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1752,
+    "ai_witness_id": 3489,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1754,
+    "ai_witness_id": 3493,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1755,
+    "ai_witness_id": 3495,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1756,
+    "ai_witness_id": 3497,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1757,
+    "ai_witness_id": 3499,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1758,
+    "ai_witness_id": 3501,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1759,
+    "ai_witness_id": 3503,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1760,
+    "ai_witness_id": 3505,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1761,
+    "ai_witness_id": 3507,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1762,
+    "ai_witness_id": 3509,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1763,
+    "ai_witness_id": 3511,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1764,
+    "ai_witness_id": 3513,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1765,
+    "ai_witness_id": 3515,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1766,
+    "ai_witness_id": 3517,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1767,
+    "ai_witness_id": 3519,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1768,
+    "ai_witness_id": 3521,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1769,
+    "ai_witness_id": 3523,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1770,
+    "ai_witness_id": 3525,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1771,
+    "ai_witness_id": 3527,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1772,
+    "ai_witness_id": 3529,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1773,
+    "ai_witness_id": 3531,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1774,
+    "ai_witness_id": 3533,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1775,
+    "ai_witness_id": 3535,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1776,
+    "ai_witness_id": 3537,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1777,
+    "ai_witness_id": 3539,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1778,
+    "ai_witness_id": 3541,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1779,
+    "ai_witness_id": 3543,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1780,
+    "ai_witness_id": 3545,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1781,
+    "ai_witness_id": 3547,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1782,
+    "ai_witness_id": 3549,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1783,
+    "ai_witness_id": 3551,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1784,
+    "ai_witness_id": 3553,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1785,
+    "ai_witness_id": 3555,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1786,
+    "ai_witness_id": 3557,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1787,
+    "ai_witness_id": 3559,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1788,
+    "ai_witness_id": 3561,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1790,
+    "ai_witness_id": 3565,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1791,
+    "ai_witness_id": 3567,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1792,
+    "ai_witness_id": 3569,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1793,
+    "ai_witness_id": 3571,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1794,
+    "ai_witness_id": 3573,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1795,
+    "ai_witness_id": 3575,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1796,
+    "ai_witness_id": 3577,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1797,
+    "ai_witness_id": 3579,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1798,
+    "ai_witness_id": 3581,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1799,
+    "ai_witness_id": 3583,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1800,
+    "ai_witness_id": 3585,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1801,
+    "ai_witness_id": 3587,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1803,
+    "ai_witness_id": 3591,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1804,
+    "ai_witness_id": 3593,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1805,
+    "ai_witness_id": 3595,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1806,
+    "ai_witness_id": 3597,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1807,
+    "ai_witness_id": 3599,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1808,
+    "ai_witness_id": 3601,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1809,
+    "ai_witness_id": 3603,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1810,
+    "ai_witness_id": 3605,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1811,
+    "ai_witness_id": 3607,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1812,
+    "ai_witness_id": 3609,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1813,
+    "ai_witness_id": 3611,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1814,
+    "ai_witness_id": 3613,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1815,
+    "ai_witness_id": 3615,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1816,
+    "ai_witness_id": 3617,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1817,
+    "ai_witness_id": 3619,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1818,
+    "ai_witness_id": 3621,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1819,
+    "ai_witness_id": 3623,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1820,
+    "ai_witness_id": 3625,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1821,
+    "ai_witness_id": 3627,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1822,
+    "ai_witness_id": 3629,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1823,
+    "ai_witness_id": 3631,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1824,
+    "ai_witness_id": 3633,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1825,
+    "ai_witness_id": 3635,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1826,
+    "ai_witness_id": 3637,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1827,
+    "ai_witness_id": 3639,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1828,
+    "ai_witness_id": 3641,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1829,
+    "ai_witness_id": 3643,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1830,
+    "ai_witness_id": 3645,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1831,
+    "ai_witness_id": 3647,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1832,
+    "ai_witness_id": 3649,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1833,
+    "ai_witness_id": 3651,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1834,
+    "ai_witness_id": 3653,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1835,
+    "ai_witness_id": 3655,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1836,
+    "ai_witness_id": 3657,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1837,
+    "ai_witness_id": 3659,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1838,
+    "ai_witness_id": 3661,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1839,
+    "ai_witness_id": 3663,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1840,
+    "ai_witness_id": 3665,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1841,
+    "ai_witness_id": 3667,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1842,
+    "ai_witness_id": 3669,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1843,
+    "ai_witness_id": 3671,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1844,
+    "ai_witness_id": 3673,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1845,
+    "ai_witness_id": 3675,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1846,
+    "ai_witness_id": 3677,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1847,
+    "ai_witness_id": 3679,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1848,
+    "ai_witness_id": 3681,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1849,
+    "ai_witness_id": 3683,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1850,
+    "ai_witness_id": 3685,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1851,
+    "ai_witness_id": 3687,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1852,
+    "ai_witness_id": 3689,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1853,
+    "ai_witness_id": 3691,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1854,
+    "ai_witness_id": 3693,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1855,
+    "ai_witness_id": 3695,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1856,
+    "ai_witness_id": 3697,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1857,
+    "ai_witness_id": 3699,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1858,
+    "ai_witness_id": 3701,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1859,
+    "ai_witness_id": 3703,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1860,
+    "ai_witness_id": 3705,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1861,
+    "ai_witness_id": 3707,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1862,
+    "ai_witness_id": 3709,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1863,
+    "ai_witness_id": 3711,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1864,
+    "ai_witness_id": 3713,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1865,
+    "ai_witness_id": 3715,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1866,
+    "ai_witness_id": 3717,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1867,
+    "ai_witness_id": 3719,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1868,
+    "ai_witness_id": 3721,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1869,
+    "ai_witness_id": 3723,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1870,
+    "ai_witness_id": 3725,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1871,
+    "ai_witness_id": 3727,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1872,
+    "ai_witness_id": 3729,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1873,
+    "ai_witness_id": 3731,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1874,
+    "ai_witness_id": 3733,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1875,
+    "ai_witness_id": 3735,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1876,
+    "ai_witness_id": 3737,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1877,
+    "ai_witness_id": 3739,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1878,
+    "ai_witness_id": 3741,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1879,
+    "ai_witness_id": 3743,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1881,
+    "ai_witness_id": 3747,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1882,
+    "ai_witness_id": 3749,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1883,
+    "ai_witness_id": 3751,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1884,
+    "ai_witness_id": 3753,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1885,
+    "ai_witness_id": 3755,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1886,
+    "ai_witness_id": 3757,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1887,
+    "ai_witness_id": 3759,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1888,
+    "ai_witness_id": 3761,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1889,
+    "ai_witness_id": 3763,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1890,
+    "ai_witness_id": 3765,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1891,
+    "ai_witness_id": 3767,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1892,
+    "ai_witness_id": 3769,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1893,
+    "ai_witness_id": 3771,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1894,
+    "ai_witness_id": 3773,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1895,
+    "ai_witness_id": 3775,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1896,
+    "ai_witness_id": 3777,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1897,
+    "ai_witness_id": 3779,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1898,
+    "ai_witness_id": 3781,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1899,
+    "ai_witness_id": 3783,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1900,
+    "ai_witness_id": 3785,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1901,
+    "ai_witness_id": 3787,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1902,
+    "ai_witness_id": 3789,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1903,
+    "ai_witness_id": 3791,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1904,
+    "ai_witness_id": 3793,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1905,
+    "ai_witness_id": 3795,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1907,
+    "ai_witness_id": 3799,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1909,
+    "ai_witness_id": 3803,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1910,
+    "ai_witness_id": 3805,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1911,
+    "ai_witness_id": 3807,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1912,
+    "ai_witness_id": 3809,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1913,
+    "ai_witness_id": 3811,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1914,
+    "ai_witness_id": 3813,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1915,
+    "ai_witness_id": 3815,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1916,
+    "ai_witness_id": 3817,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1917,
+    "ai_witness_id": 3819,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1918,
+    "ai_witness_id": 3821,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1919,
+    "ai_witness_id": 3823,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1920,
+    "ai_witness_id": 3825,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1921,
+    "ai_witness_id": 3827,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1922,
+    "ai_witness_id": 3829,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1923,
+    "ai_witness_id": 3831,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1924,
+    "ai_witness_id": 3833,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1925,
+    "ai_witness_id": 3835,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1926,
+    "ai_witness_id": 3837,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1927,
+    "ai_witness_id": 3839,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1928,
+    "ai_witness_id": 3841,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1929,
+    "ai_witness_id": 3843,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1930,
+    "ai_witness_id": 3845,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1931,
+    "ai_witness_id": 3847,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1932,
+    "ai_witness_id": 3849,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1933,
+    "ai_witness_id": 3851,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1934,
+    "ai_witness_id": 3853,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1935,
+    "ai_witness_id": 3855,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1936,
+    "ai_witness_id": 3857,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1937,
+    "ai_witness_id": 3859,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1938,
+    "ai_witness_id": 3861,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1939,
+    "ai_witness_id": 3863,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1940,
+    "ai_witness_id": 3865,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1941,
+    "ai_witness_id": 3867,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1942,
+    "ai_witness_id": 3869,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1943,
+    "ai_witness_id": 3871,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1944,
+    "ai_witness_id": 3873,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1945,
+    "ai_witness_id": 3875,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1946,
+    "ai_witness_id": 3877,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1947,
+    "ai_witness_id": 3879,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1948,
+    "ai_witness_id": 3881,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1949,
+    "ai_witness_id": 3883,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1950,
+    "ai_witness_id": 3885,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1952,
+    "ai_witness_id": 3889,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1953,
+    "ai_witness_id": 3891,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1954,
+    "ai_witness_id": 3893,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1955,
+    "ai_witness_id": 3895,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1956,
+    "ai_witness_id": 3897,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1957,
+    "ai_witness_id": 3899,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1958,
+    "ai_witness_id": 3901,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1959,
+    "ai_witness_id": 3903,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1960,
+    "ai_witness_id": 3905,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1961,
+    "ai_witness_id": 3907,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1962,
+    "ai_witness_id": 3909,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1963,
+    "ai_witness_id": 3911,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1964,
+    "ai_witness_id": 3913,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1965,
+    "ai_witness_id": 3915,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1966,
+    "ai_witness_id": 3917,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1967,
+    "ai_witness_id": 3919,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1968,
+    "ai_witness_id": 3921,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1969,
+    "ai_witness_id": 3923,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1970,
+    "ai_witness_id": 3925,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1971,
+    "ai_witness_id": 3927,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1973,
+    "ai_witness_id": 3931,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1974,
+    "ai_witness_id": 3933,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1975,
+    "ai_witness_id": 3935,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1977,
+    "ai_witness_id": 3939,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1979,
+    "ai_witness_id": 3943,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1980,
+    "ai_witness_id": 3945,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1982,
+    "ai_witness_id": 3949,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1983,
+    "ai_witness_id": 3951,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1984,
+    "ai_witness_id": 3953,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1985,
+    "ai_witness_id": 3955,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1986,
+    "ai_witness_id": 3957,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1987,
+    "ai_witness_id": 3959,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1990,
+    "ai_witness_id": 3965,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1991,
+    "ai_witness_id": 3967,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1992,
+    "ai_witness_id": 3969,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1993,
+    "ai_witness_id": 3971,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1994,
+    "ai_witness_id": 3973,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1995,
+    "ai_witness_id": 3975,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1996,
+    "ai_witness_id": 3977,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1997,
+    "ai_witness_id": 3979,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 1998,
+    "ai_witness_id": 3981,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 1999,
+    "ai_witness_id": 3983,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2000,
+    "ai_witness_id": 3985,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2001,
+    "ai_witness_id": 3987,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2002,
+    "ai_witness_id": 3989,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2003,
+    "ai_witness_id": 3991,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2004,
+    "ai_witness_id": 3993,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2005,
+    "ai_witness_id": 3995,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2006,
+    "ai_witness_id": 3997,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2007,
+    "ai_witness_id": 3999,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2008,
+    "ai_witness_id": 4001,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2009,
+    "ai_witness_id": 4003,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2010,
+    "ai_witness_id": 4005,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2011,
+    "ai_witness_id": 4007,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2012,
+    "ai_witness_id": 4009,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2013,
+    "ai_witness_id": 4011,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2014,
+    "ai_witness_id": 4013,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2015,
+    "ai_witness_id": 4015,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2016,
+    "ai_witness_id": 4017,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2017,
+    "ai_witness_id": 4019,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2018,
+    "ai_witness_id": 4021,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2019,
+    "ai_witness_id": 4023,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2020,
+    "ai_witness_id": 4025,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2021,
+    "ai_witness_id": 4027,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2022,
+    "ai_witness_id": 4029,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2023,
+    "ai_witness_id": 4031,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2024,
+    "ai_witness_id": 4033,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2025,
+    "ai_witness_id": 4035,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2026,
+    "ai_witness_id": 4037,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2027,
+    "ai_witness_id": 4039,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2028,
+    "ai_witness_id": 4041,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2029,
+    "ai_witness_id": 4043,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2030,
+    "ai_witness_id": 4045,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2031,
+    "ai_witness_id": 4047,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2032,
+    "ai_witness_id": 4049,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2033,
+    "ai_witness_id": 4051,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2034,
+    "ai_witness_id": 4053,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2035,
+    "ai_witness_id": 4055,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2036,
+    "ai_witness_id": 4057,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2037,
+    "ai_witness_id": 4059,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2038,
+    "ai_witness_id": 4061,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2039,
+    "ai_witness_id": 4063,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2040,
+    "ai_witness_id": 4065,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2041,
+    "ai_witness_id": 4067,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2042,
+    "ai_witness_id": 4069,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2043,
+    "ai_witness_id": 4071,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2044,
+    "ai_witness_id": 4073,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2045,
+    "ai_witness_id": 4075,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2046,
+    "ai_witness_id": 4077,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2047,
+    "ai_witness_id": 4079,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2050,
+    "ai_witness_id": 4085,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2051,
+    "ai_witness_id": 4087,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2052,
+    "ai_witness_id": 4089,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2053,
+    "ai_witness_id": 4091,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2054,
+    "ai_witness_id": 4093,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2055,
+    "ai_witness_id": 4095,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2056,
+    "ai_witness_id": 4097,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2058,
+    "ai_witness_id": 4101,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2059,
+    "ai_witness_id": 4103,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2060,
+    "ai_witness_id": 4105,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2061,
+    "ai_witness_id": 4107,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2062,
+    "ai_witness_id": 4109,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2063,
+    "ai_witness_id": 4111,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2064,
+    "ai_witness_id": 4113,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2065,
+    "ai_witness_id": 4115,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2066,
+    "ai_witness_id": 4117,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2067,
+    "ai_witness_id": 4119,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2068,
+    "ai_witness_id": 4121,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2069,
+    "ai_witness_id": 4123,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2070,
+    "ai_witness_id": 4125,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2071,
+    "ai_witness_id": 4127,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2072,
+    "ai_witness_id": 4129,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2073,
+    "ai_witness_id": 4131,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2074,
+    "ai_witness_id": 4133,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2075,
+    "ai_witness_id": 4135,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2076,
+    "ai_witness_id": 4137,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2077,
+    "ai_witness_id": 4139,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2078,
+    "ai_witness_id": 4141,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2079,
+    "ai_witness_id": 4143,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2080,
+    "ai_witness_id": 4145,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2081,
+    "ai_witness_id": 4147,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2082,
+    "ai_witness_id": 4149,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2083,
+    "ai_witness_id": 4151,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2084,
+    "ai_witness_id": 4153,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2085,
+    "ai_witness_id": 4155,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2086,
+    "ai_witness_id": 4157,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2087,
+    "ai_witness_id": 4159,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2088,
+    "ai_witness_id": 4161,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2089,
+    "ai_witness_id": 4163,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2090,
+    "ai_witness_id": 4165,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2091,
+    "ai_witness_id": 4167,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2092,
+    "ai_witness_id": 4169,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2093,
+    "ai_witness_id": 4171,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2094,
+    "ai_witness_id": 4173,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2095,
+    "ai_witness_id": 4175,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2096,
+    "ai_witness_id": 4177,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2097,
+    "ai_witness_id": 4179,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2098,
+    "ai_witness_id": 4181,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2099,
+    "ai_witness_id": 4183,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2100,
+    "ai_witness_id": 4185,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2101,
+    "ai_witness_id": 4187,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2102,
+    "ai_witness_id": 4189,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2103,
+    "ai_witness_id": 4191,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2104,
+    "ai_witness_id": 4193,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2105,
+    "ai_witness_id": 4195,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2106,
+    "ai_witness_id": 4197,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2107,
+    "ai_witness_id": 4199,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2108,
+    "ai_witness_id": 4201,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2109,
+    "ai_witness_id": 4203,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2110,
+    "ai_witness_id": 4205,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2111,
+    "ai_witness_id": 4207,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2112,
+    "ai_witness_id": 4209,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2113,
+    "ai_witness_id": 4211,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2114,
+    "ai_witness_id": 4213,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2115,
+    "ai_witness_id": 4215,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2116,
+    "ai_witness_id": 4217,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2118,
+    "ai_witness_id": 4221,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2119,
+    "ai_witness_id": 4223,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2120,
+    "ai_witness_id": 4225,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2121,
+    "ai_witness_id": 4227,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2122,
+    "ai_witness_id": 4229,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2123,
+    "ai_witness_id": 4231,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2124,
+    "ai_witness_id": 4233,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2125,
+    "ai_witness_id": 4235,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2126,
+    "ai_witness_id": 4237,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2128,
+    "ai_witness_id": 4241,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2129,
+    "ai_witness_id": 4243,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2130,
+    "ai_witness_id": 4245,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2131,
+    "ai_witness_id": 4247,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2132,
+    "ai_witness_id": 4249,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2133,
+    "ai_witness_id": 4251,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2134,
+    "ai_witness_id": 4253,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2135,
+    "ai_witness_id": 4255,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2136,
+    "ai_witness_id": 4257,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2137,
+    "ai_witness_id": 4259,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2138,
+    "ai_witness_id": 4261,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2139,
+    "ai_witness_id": 4263,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2140,
+    "ai_witness_id": 4265,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2141,
+    "ai_witness_id": 4267,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2142,
+    "ai_witness_id": 4269,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2143,
+    "ai_witness_id": 4271,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2144,
+    "ai_witness_id": 4273,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2145,
+    "ai_witness_id": 4275,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2146,
+    "ai_witness_id": 4277,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2147,
+    "ai_witness_id": 4279,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2148,
+    "ai_witness_id": 4281,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2149,
+    "ai_witness_id": 4283,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2150,
+    "ai_witness_id": 4285,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2151,
+    "ai_witness_id": 4287,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2152,
+    "ai_witness_id": 4289,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2153,
+    "ai_witness_id": 4291,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2154,
+    "ai_witness_id": 4293,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2155,
+    "ai_witness_id": 4295,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2156,
+    "ai_witness_id": 4297,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2157,
+    "ai_witness_id": 4299,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2158,
+    "ai_witness_id": 4301,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2159,
+    "ai_witness_id": 4303,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2160,
+    "ai_witness_id": 4305,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2161,
+    "ai_witness_id": 4307,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2162,
+    "ai_witness_id": 4309,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2163,
+    "ai_witness_id": 4311,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2165,
+    "ai_witness_id": 4315,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2166,
+    "ai_witness_id": 4317,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2167,
+    "ai_witness_id": 4319,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2168,
+    "ai_witness_id": 4321,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2169,
+    "ai_witness_id": 4323,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2170,
+    "ai_witness_id": 4325,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2171,
+    "ai_witness_id": 4327,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2172,
+    "ai_witness_id": 4329,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2173,
+    "ai_witness_id": 4331,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2175,
+    "ai_witness_id": 4335,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2176,
+    "ai_witness_id": 4337,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2177,
+    "ai_witness_id": 4339,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2179,
+    "ai_witness_id": 4343,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2180,
+    "ai_witness_id": 4345,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2181,
+    "ai_witness_id": 4347,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2182,
+    "ai_witness_id": 4349,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2183,
+    "ai_witness_id": 4351,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2184,
+    "ai_witness_id": 4353,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2185,
+    "ai_witness_id": 4355,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2186,
+    "ai_witness_id": 4357,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2187,
+    "ai_witness_id": 4359,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2188,
+    "ai_witness_id": 4361,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2189,
+    "ai_witness_id": 4363,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2190,
+    "ai_witness_id": 4365,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2191,
+    "ai_witness_id": 4367,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2192,
+    "ai_witness_id": 4369,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2193,
+    "ai_witness_id": 4371,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2194,
+    "ai_witness_id": 4373,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2195,
+    "ai_witness_id": 4375,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2196,
+    "ai_witness_id": 4377,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2197,
+    "ai_witness_id": 4379,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2198,
+    "ai_witness_id": 4381,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2199,
+    "ai_witness_id": 4383,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2200,
+    "ai_witness_id": 4385,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2202,
+    "ai_witness_id": 4389,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2203,
+    "ai_witness_id": 4391,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2204,
+    "ai_witness_id": 4393,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2205,
+    "ai_witness_id": 4395,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2207,
+    "ai_witness_id": 4399,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2209,
+    "ai_witness_id": 4403,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2210,
+    "ai_witness_id": 4405,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2211,
+    "ai_witness_id": 4407,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2212,
+    "ai_witness_id": 4409,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2213,
+    "ai_witness_id": 4411,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2214,
+    "ai_witness_id": 4413,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2215,
+    "ai_witness_id": 4415,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2216,
+    "ai_witness_id": 4417,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2217,
+    "ai_witness_id": 4419,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2218,
+    "ai_witness_id": 4421,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2219,
+    "ai_witness_id": 4423,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2220,
+    "ai_witness_id": 4425,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2221,
+    "ai_witness_id": 4427,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2222,
+    "ai_witness_id": 4429,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2223,
+    "ai_witness_id": 4431,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2224,
+    "ai_witness_id": 4433,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2225,
+    "ai_witness_id": 4435,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2226,
+    "ai_witness_id": 4437,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2228,
+    "ai_witness_id": 4441,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2230,
+    "ai_witness_id": 4445,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2231,
+    "ai_witness_id": 4447,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2232,
+    "ai_witness_id": 4449,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2370,
+    "ai_witness_id": 7417,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2375,
+    "ai_witness_id": 7427,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2379,
+    "ai_witness_id": 7435,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2381,
+    "ai_witness_id": 7439,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2389,
+    "ai_witness_id": 7455,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2390,
+    "ai_witness_id": 7457,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2401,
+    "ai_witness_id": 8951,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2404,
+    "ai_witness_id": 8957,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2406,
+    "ai_witness_id": 8961,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2409,
+    "ai_witness_id": 8967,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2411,
+    "ai_witness_id": 8971,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2412,
+    "ai_witness_id": 8973,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2413,
+    "ai_witness_id": 8975,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2418,
+    "ai_witness_id": 8987,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2420,
+    "ai_witness_id": 8993,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2421,
+    "ai_witness_id": 8996,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2426,
+    "ai_witness_id": 9008,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2428,
+    "ai_witness_id": 9012,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2430,
+    "ai_witness_id": 9016,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2431,
+    "ai_witness_id": 9018,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2433,
+    "ai_witness_id": 9022,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2434,
+    "ai_witness_id": 9024,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2436,
+    "ai_witness_id": 9028,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2437,
+    "ai_witness_id": 9030,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2438,
+    "ai_witness_id": 9032,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2439,
+    "ai_witness_id": 9034,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2440,
+    "ai_witness_id": 9036,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2441,
+    "ai_witness_id": 9038,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2443,
+    "ai_witness_id": 9042,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2444,
+    "ai_witness_id": 9044,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2445,
+    "ai_witness_id": 9046,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2446,
+    "ai_witness_id": 9048,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2447,
+    "ai_witness_id": 9050,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2448,
+    "ai_witness_id": 9052,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2449,
+    "ai_witness_id": 9054,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2450,
+    "ai_witness_id": 9056,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2451,
+    "ai_witness_id": 9058,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2452,
+    "ai_witness_id": 9060,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2453,
+    "ai_witness_id": 9062,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2454,
+    "ai_witness_id": 9064,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2455,
+    "ai_witness_id": 9066,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2456,
+    "ai_witness_id": 9068,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2458,
+    "ai_witness_id": 9072,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2459,
+    "ai_witness_id": 9074,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2460,
+    "ai_witness_id": 9076,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2461,
+    "ai_witness_id": 9078,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2462,
+    "ai_witness_id": 9080,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2463,
+    "ai_witness_id": 9082,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2464,
+    "ai_witness_id": 9084,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2465,
+    "ai_witness_id": 9086,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2466,
+    "ai_witness_id": 9088,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2467,
+    "ai_witness_id": 9090,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2468,
+    "ai_witness_id": 9092,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2469,
+    "ai_witness_id": 9094,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2470,
+    "ai_witness_id": 9096,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2471,
+    "ai_witness_id": 9098,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2472,
+    "ai_witness_id": 9100,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2473,
+    "ai_witness_id": 9102,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2474,
+    "ai_witness_id": 9104,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2475,
+    "ai_witness_id": 9106,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2476,
+    "ai_witness_id": 9108,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2477,
+    "ai_witness_id": 9110,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2478,
+    "ai_witness_id": 9112,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2479,
+    "ai_witness_id": 9114,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2480,
+    "ai_witness_id": 9116,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2481,
+    "ai_witness_id": 9118,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2482,
+    "ai_witness_id": 9120,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2483,
+    "ai_witness_id": 9122,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2484,
+    "ai_witness_id": 9124,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2485,
+    "ai_witness_id": 9126,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2486,
+    "ai_witness_id": 9128,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2487,
+    "ai_witness_id": 9130,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2488,
+    "ai_witness_id": 9132,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2489,
+    "ai_witness_id": 9134,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2490,
+    "ai_witness_id": 9136,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2491,
+    "ai_witness_id": 9138,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2492,
+    "ai_witness_id": 9140,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2493,
+    "ai_witness_id": 9142,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2494,
+    "ai_witness_id": 9144,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2495,
+    "ai_witness_id": 9146,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2496,
+    "ai_witness_id": 9148,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2497,
+    "ai_witness_id": 9150,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2498,
+    "ai_witness_id": 9152,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2499,
+    "ai_witness_id": 9154,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2500,
+    "ai_witness_id": 9156,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2501,
+    "ai_witness_id": 9158,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2502,
+    "ai_witness_id": 9160,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2503,
+    "ai_witness_id": 9162,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2504,
+    "ai_witness_id": 9164,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2505,
+    "ai_witness_id": 9166,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2506,
+    "ai_witness_id": 9169,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2507,
+    "ai_witness_id": 9171,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2508,
+    "ai_witness_id": 9173,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2509,
+    "ai_witness_id": 9175,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2510,
+    "ai_witness_id": 9177,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2511,
+    "ai_witness_id": 9180,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2512,
+    "ai_witness_id": 9182,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2513,
+    "ai_witness_id": 9184,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2514,
+    "ai_witness_id": 9186,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2515,
+    "ai_witness_id": 9188,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2516,
+    "ai_witness_id": 9190,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2517,
+    "ai_witness_id": 9192,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2518,
+    "ai_witness_id": 9194,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2519,
+    "ai_witness_id": 9196,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2520,
+    "ai_witness_id": 9198,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2521,
+    "ai_witness_id": 9200,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2522,
+    "ai_witness_id": 9202,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2523,
+    "ai_witness_id": 9204,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2524,
+    "ai_witness_id": 9206,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2526,
+    "ai_witness_id": 9210,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2527,
+    "ai_witness_id": 9212,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2528,
+    "ai_witness_id": 9214,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2530,
+    "ai_witness_id": 9218,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2531,
+    "ai_witness_id": 9220,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2533,
+    "ai_witness_id": 9224,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2534,
+    "ai_witness_id": 9226,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2535,
+    "ai_witness_id": 9228,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2536,
+    "ai_witness_id": 9230,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2537,
+    "ai_witness_id": 9232,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2538,
+    "ai_witness_id": 9234,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2539,
+    "ai_witness_id": 9236,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2540,
+    "ai_witness_id": 9238,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2541,
+    "ai_witness_id": 9240,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2542,
+    "ai_witness_id": 9242,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2543,
+    "ai_witness_id": 9244,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2544,
+    "ai_witness_id": 9246,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2545,
+    "ai_witness_id": 9248,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2546,
+    "ai_witness_id": 9250,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2547,
+    "ai_witness_id": 9252,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2548,
+    "ai_witness_id": 9254,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2549,
+    "ai_witness_id": 9256,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2550,
+    "ai_witness_id": 9258,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2551,
+    "ai_witness_id": 9260,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2552,
+    "ai_witness_id": 9262,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2553,
+    "ai_witness_id": 9264,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2554,
+    "ai_witness_id": 9266,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2555,
+    "ai_witness_id": 9268,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2556,
+    "ai_witness_id": 9270,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2557,
+    "ai_witness_id": 9272,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2558,
+    "ai_witness_id": 9274,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2559,
+    "ai_witness_id": 9276,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2560,
+    "ai_witness_id": 9278,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2561,
+    "ai_witness_id": 9280,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2562,
+    "ai_witness_id": 9282,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2563,
+    "ai_witness_id": 9284,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2564,
+    "ai_witness_id": 9286,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2565,
+    "ai_witness_id": 9288,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2566,
+    "ai_witness_id": 9290,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2567,
+    "ai_witness_id": 9292,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2568,
+    "ai_witness_id": 9294,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2569,
+    "ai_witness_id": 9296,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2570,
+    "ai_witness_id": 9298,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2571,
+    "ai_witness_id": 9300,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2572,
+    "ai_witness_id": 9302,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2574,
+    "ai_witness_id": 9306,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2575,
+    "ai_witness_id": 9308,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2576,
+    "ai_witness_id": 9310,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2578,
+    "ai_witness_id": 9314,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2580,
+    "ai_witness_id": 9318,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2581,
+    "ai_witness_id": 9320,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2582,
+    "ai_witness_id": 9322,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2583,
+    "ai_witness_id": 9324,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2584,
+    "ai_witness_id": 9326,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2585,
+    "ai_witness_id": 9328,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2586,
+    "ai_witness_id": 9330,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2587,
+    "ai_witness_id": 9332,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2588,
+    "ai_witness_id": 9334,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2589,
+    "ai_witness_id": 9336,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2590,
+    "ai_witness_id": 9338,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2591,
+    "ai_witness_id": 9340,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2592,
+    "ai_witness_id": 9342,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2593,
+    "ai_witness_id": 9344,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2594,
+    "ai_witness_id": 9346,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2595,
+    "ai_witness_id": 9348,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2596,
+    "ai_witness_id": 9350,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2597,
+    "ai_witness_id": 9352,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2598,
+    "ai_witness_id": 9354,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2599,
+    "ai_witness_id": 9356,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2600,
+    "ai_witness_id": 9358,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2601,
+    "ai_witness_id": 9360,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2602,
+    "ai_witness_id": 9362,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2603,
+    "ai_witness_id": 9364,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2604,
+    "ai_witness_id": 9366,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2605,
+    "ai_witness_id": 9368,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2606,
+    "ai_witness_id": 9370,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2607,
+    "ai_witness_id": 9372,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2608,
+    "ai_witness_id": 9374,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2609,
+    "ai_witness_id": 9376,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2610,
+    "ai_witness_id": 9378,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2611,
+    "ai_witness_id": 9380,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2612,
+    "ai_witness_id": 9382,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2613,
+    "ai_witness_id": 9384,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2614,
+    "ai_witness_id": 9386,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2615,
+    "ai_witness_id": 9388,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2616,
+    "ai_witness_id": 9390,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2617,
+    "ai_witness_id": 9392,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2619,
+    "ai_witness_id": 9396,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2620,
+    "ai_witness_id": 9398,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2621,
+    "ai_witness_id": 9400,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2623,
+    "ai_witness_id": 9404,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2624,
+    "ai_witness_id": 9406,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2625,
+    "ai_witness_id": 9408,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2626,
+    "ai_witness_id": 9410,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2627,
+    "ai_witness_id": 9412,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2628,
+    "ai_witness_id": 9414,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2629,
+    "ai_witness_id": 9416,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2630,
+    "ai_witness_id": 9418,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2631,
+    "ai_witness_id": 9420,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2632,
+    "ai_witness_id": 9422,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2633,
+    "ai_witness_id": 9424,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2634,
+    "ai_witness_id": 9426,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2635,
+    "ai_witness_id": 9428,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2636,
+    "ai_witness_id": 9430,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2637,
+    "ai_witness_id": 9432,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2638,
+    "ai_witness_id": 9434,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2639,
+    "ai_witness_id": 9436,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2640,
+    "ai_witness_id": 9438,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2641,
+    "ai_witness_id": 9440,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2642,
+    "ai_witness_id": 9442,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2643,
+    "ai_witness_id": 9444,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2644,
+    "ai_witness_id": 9446,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2645,
+    "ai_witness_id": 9448,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2646,
+    "ai_witness_id": 9450,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2647,
+    "ai_witness_id": 9452,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2648,
+    "ai_witness_id": 9454,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2649,
+    "ai_witness_id": 9456,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2650,
+    "ai_witness_id": 9458,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2651,
+    "ai_witness_id": 9460,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2652,
+    "ai_witness_id": 9462,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2653,
+    "ai_witness_id": 9464,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2654,
+    "ai_witness_id": 9466,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2655,
+    "ai_witness_id": 9468,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2656,
+    "ai_witness_id": 9470,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2657,
+    "ai_witness_id": 9472,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2658,
+    "ai_witness_id": 9474,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2659,
+    "ai_witness_id": 9476,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2660,
+    "ai_witness_id": 9478,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2661,
+    "ai_witness_id": 9480,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2662,
+    "ai_witness_id": 9482,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2663,
+    "ai_witness_id": 9484,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2664,
+    "ai_witness_id": 9486,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2665,
+    "ai_witness_id": 9488,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2666,
+    "ai_witness_id": 9490,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2667,
+    "ai_witness_id": 9492,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2668,
+    "ai_witness_id": 9494,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2669,
+    "ai_witness_id": 9496,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2670,
+    "ai_witness_id": 9498,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2671,
+    "ai_witness_id": 9500,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2672,
+    "ai_witness_id": 9502,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2673,
+    "ai_witness_id": 9504,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2674,
+    "ai_witness_id": 9506,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2675,
+    "ai_witness_id": 9508,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2676,
+    "ai_witness_id": 9510,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2677,
+    "ai_witness_id": 9512,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2678,
+    "ai_witness_id": 9514,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2679,
+    "ai_witness_id": 9516,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2680,
+    "ai_witness_id": 9518,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2681,
+    "ai_witness_id": 9520,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2682,
+    "ai_witness_id": 9522,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2683,
+    "ai_witness_id": 9524,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2684,
+    "ai_witness_id": 9526,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2685,
+    "ai_witness_id": 9528,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2686,
+    "ai_witness_id": 9530,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2687,
+    "ai_witness_id": 9532,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2688,
+    "ai_witness_id": 9534,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2689,
+    "ai_witness_id": 9536,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2690,
+    "ai_witness_id": 9538,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2691,
+    "ai_witness_id": 9540,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2692,
+    "ai_witness_id": 9542,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2693,
+    "ai_witness_id": 9544,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2695,
+    "ai_witness_id": 9548,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2696,
+    "ai_witness_id": 9550,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2697,
+    "ai_witness_id": 9552,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2698,
+    "ai_witness_id": 9554,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2699,
+    "ai_witness_id": 9556,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2700,
+    "ai_witness_id": 9558,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2701,
+    "ai_witness_id": 9560,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2702,
+    "ai_witness_id": 9562,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2703,
+    "ai_witness_id": 9564,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2704,
+    "ai_witness_id": 9566,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2705,
+    "ai_witness_id": 9568,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2706,
+    "ai_witness_id": 9570,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2707,
+    "ai_witness_id": 9572,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2708,
+    "ai_witness_id": 9574,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2709,
+    "ai_witness_id": 9576,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2710,
+    "ai_witness_id": 9578,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2711,
+    "ai_witness_id": 9580,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2713,
+    "ai_witness_id": 9584,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2714,
+    "ai_witness_id": 9586,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2715,
+    "ai_witness_id": 9588,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2716,
+    "ai_witness_id": 9590,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2717,
+    "ai_witness_id": 9592,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2718,
+    "ai_witness_id": 9594,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2720,
+    "ai_witness_id": 9598,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2721,
+    "ai_witness_id": 9600,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2723,
+    "ai_witness_id": 9604,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2724,
+    "ai_witness_id": 9606,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2725,
+    "ai_witness_id": 9608,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2726,
+    "ai_witness_id": 9610,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2727,
+    "ai_witness_id": 9612,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2728,
+    "ai_witness_id": 9614,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2729,
+    "ai_witness_id": 9616,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2730,
+    "ai_witness_id": 9618,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2731,
+    "ai_witness_id": 9620,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2732,
+    "ai_witness_id": 9622,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2733,
+    "ai_witness_id": 9624,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2734,
+    "ai_witness_id": 9626,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2735,
+    "ai_witness_id": 9628,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2736,
+    "ai_witness_id": 9630,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2737,
+    "ai_witness_id": 9632,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2738,
+    "ai_witness_id": 9634,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2740,
+    "ai_witness_id": 9638,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2741,
+    "ai_witness_id": 9640,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2742,
+    "ai_witness_id": 9642,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2743,
+    "ai_witness_id": 9644,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2744,
+    "ai_witness_id": 9646,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2745,
+    "ai_witness_id": 9648,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2746,
+    "ai_witness_id": 9650,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2747,
+    "ai_witness_id": 9652,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2748,
+    "ai_witness_id": 9654,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2749,
+    "ai_witness_id": 9656,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2750,
+    "ai_witness_id": 9658,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2751,
+    "ai_witness_id": 9660,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2752,
+    "ai_witness_id": 9662,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2753,
+    "ai_witness_id": 9664,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2754,
+    "ai_witness_id": 9666,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2755,
+    "ai_witness_id": 9668,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2756,
+    "ai_witness_id": 9670,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2757,
+    "ai_witness_id": 9672,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2758,
+    "ai_witness_id": 9674,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2759,
+    "ai_witness_id": 9676,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2760,
+    "ai_witness_id": 9678,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2761,
+    "ai_witness_id": 9680,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2762,
+    "ai_witness_id": 9682,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2763,
+    "ai_witness_id": 9684,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2764,
+    "ai_witness_id": 9686,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2765,
+    "ai_witness_id": 9688,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2766,
+    "ai_witness_id": 9690,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2767,
+    "ai_witness_id": 9692,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2768,
+    "ai_witness_id": 9694,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2769,
+    "ai_witness_id": 9696,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2770,
+    "ai_witness_id": 9698,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2771,
+    "ai_witness_id": 9700,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2772,
+    "ai_witness_id": 9702,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2773,
+    "ai_witness_id": 9704,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2774,
+    "ai_witness_id": 9706,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2775,
+    "ai_witness_id": 9708,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2776,
+    "ai_witness_id": 9710,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2777,
+    "ai_witness_id": 9712,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2778,
+    "ai_witness_id": 9714,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2779,
+    "ai_witness_id": 9716,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2780,
+    "ai_witness_id": 9718,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2781,
+    "ai_witness_id": 9720,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2782,
+    "ai_witness_id": 9722,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2783,
+    "ai_witness_id": 9724,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2784,
+    "ai_witness_id": 9726,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2785,
+    "ai_witness_id": 9728,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2786,
+    "ai_witness_id": 9730,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2787,
+    "ai_witness_id": 9732,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2788,
+    "ai_witness_id": 9734,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2789,
+    "ai_witness_id": 9736,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2790,
+    "ai_witness_id": 9738,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2791,
+    "ai_witness_id": 9740,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2793,
+    "ai_witness_id": 9744,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2794,
+    "ai_witness_id": 9746,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2795,
+    "ai_witness_id": 9748,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2796,
+    "ai_witness_id": 9750,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2797,
+    "ai_witness_id": 9752,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2798,
+    "ai_witness_id": 9756,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2799,
+    "ai_witness_id": 9760,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2800,
+    "ai_witness_id": 9762,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2801,
+    "ai_witness_id": 9764,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2802,
+    "ai_witness_id": 9766,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2803,
+    "ai_witness_id": 9768,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2804,
+    "ai_witness_id": 9770,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2805,
+    "ai_witness_id": 9772,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2806,
+    "ai_witness_id": 9774,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2807,
+    "ai_witness_id": 9776,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2809,
+    "ai_witness_id": 9780,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2810,
+    "ai_witness_id": 9782,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2812,
+    "ai_witness_id": 9786,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2813,
+    "ai_witness_id": 9788,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2814,
+    "ai_witness_id": 9790,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2815,
+    "ai_witness_id": 9792,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2823,
+    "ai_witness_id": 9811,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2824,
+    "ai_witness_id": 9813,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2825,
+    "ai_witness_id": 9815,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2826,
+    "ai_witness_id": 9817,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2827,
+    "ai_witness_id": 9819,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2828,
+    "ai_witness_id": 9821,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2829,
+    "ai_witness_id": 9823,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2830,
+    "ai_witness_id": 9825,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2831,
+    "ai_witness_id": 9827,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2832,
+    "ai_witness_id": 9829,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2834,
+    "ai_witness_id": 9833,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2835,
+    "ai_witness_id": 9835,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2836,
+    "ai_witness_id": 9837,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2838,
+    "ai_witness_id": 9841,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2839,
+    "ai_witness_id": 9843,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2840,
+    "ai_witness_id": 9845,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2841,
+    "ai_witness_id": 9847,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2842,
+    "ai_witness_id": 9849,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2843,
+    "ai_witness_id": 9851,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2845,
+    "ai_witness_id": 9855,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2846,
+    "ai_witness_id": 9857,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2847,
+    "ai_witness_id": 9859,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2848,
+    "ai_witness_id": 9861,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2849,
+    "ai_witness_id": 9863,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2850,
+    "ai_witness_id": 9865,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2851,
+    "ai_witness_id": 9867,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2852,
+    "ai_witness_id": 9869,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2853,
+    "ai_witness_id": 9871,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2855,
+    "ai_witness_id": 9875,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2856,
+    "ai_witness_id": 9877,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2857,
+    "ai_witness_id": 9879,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2858,
+    "ai_witness_id": 9881,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2859,
+    "ai_witness_id": 9883,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2860,
+    "ai_witness_id": 9885,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2861,
+    "ai_witness_id": 9887,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2862,
+    "ai_witness_id": 9889,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2863,
+    "ai_witness_id": 9891,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2864,
+    "ai_witness_id": 9893,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2865,
+    "ai_witness_id": 9895,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2866,
+    "ai_witness_id": 9897,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2867,
+    "ai_witness_id": 9899,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2868,
+    "ai_witness_id": 9901,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2869,
+    "ai_witness_id": 9903,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2870,
+    "ai_witness_id": 9905,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2871,
+    "ai_witness_id": 9907,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2872,
+    "ai_witness_id": 9909,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2873,
+    "ai_witness_id": 9911,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2874,
+    "ai_witness_id": 9913,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2875,
+    "ai_witness_id": 9915,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2876,
+    "ai_witness_id": 9917,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2877,
+    "ai_witness_id": 9919,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2878,
+    "ai_witness_id": 9921,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2879,
+    "ai_witness_id": 9923,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2880,
+    "ai_witness_id": 9925,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2881,
+    "ai_witness_id": 9927,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2882,
+    "ai_witness_id": 9929,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2883,
+    "ai_witness_id": 9931,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2884,
+    "ai_witness_id": 9933,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2885,
+    "ai_witness_id": 9935,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2886,
+    "ai_witness_id": 9937,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2887,
+    "ai_witness_id": 9939,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2888,
+    "ai_witness_id": 9941,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2889,
+    "ai_witness_id": 9943,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2891,
+    "ai_witness_id": 9947,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2892,
+    "ai_witness_id": 9949,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2893,
+    "ai_witness_id": 9951,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2894,
+    "ai_witness_id": 9953,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2895,
+    "ai_witness_id": 9955,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2896,
+    "ai_witness_id": 9957,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2897,
+    "ai_witness_id": 9959,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2898,
+    "ai_witness_id": 9961,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2899,
+    "ai_witness_id": 9963,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2900,
+    "ai_witness_id": 9965,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2901,
+    "ai_witness_id": 9967,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2902,
+    "ai_witness_id": 9969,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2903,
+    "ai_witness_id": 9971,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2904,
+    "ai_witness_id": 9973,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2905,
+    "ai_witness_id": 9975,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2906,
+    "ai_witness_id": 9977,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2907,
+    "ai_witness_id": 9979,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2908,
+    "ai_witness_id": 9981,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2909,
+    "ai_witness_id": 9983,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2910,
+    "ai_witness_id": 9985,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2911,
+    "ai_witness_id": 9987,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2912,
+    "ai_witness_id": 9989,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2913,
+    "ai_witness_id": 9991,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2914,
+    "ai_witness_id": 9993,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2915,
+    "ai_witness_id": 9995,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2916,
+    "ai_witness_id": 9997,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2917,
+    "ai_witness_id": 9999,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2918,
+    "ai_witness_id": 10001,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2919,
+    "ai_witness_id": 10003,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2920,
+    "ai_witness_id": 10005,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2921,
+    "ai_witness_id": 10007,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2922,
+    "ai_witness_id": 10009,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2923,
+    "ai_witness_id": 10011,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2924,
+    "ai_witness_id": 10013,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2926,
+    "ai_witness_id": 10017,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2927,
+    "ai_witness_id": 10019,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2928,
+    "ai_witness_id": 10021,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2929,
+    "ai_witness_id": 10023,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2930,
+    "ai_witness_id": 10025,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2931,
+    "ai_witness_id": 10027,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2932,
+    "ai_witness_id": 10029,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2933,
+    "ai_witness_id": 10031,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2934,
+    "ai_witness_id": 10033,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2935,
+    "ai_witness_id": 10035,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2936,
+    "ai_witness_id": 10037,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2937,
+    "ai_witness_id": 10039,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2938,
+    "ai_witness_id": 10041,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2939,
+    "ai_witness_id": 10043,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2940,
+    "ai_witness_id": 10045,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2941,
+    "ai_witness_id": 10047,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2942,
+    "ai_witness_id": 10049,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2943,
+    "ai_witness_id": 10051,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2944,
+    "ai_witness_id": 10053,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2945,
+    "ai_witness_id": 10055,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2946,
+    "ai_witness_id": 10057,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2947,
+    "ai_witness_id": 10059,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2948,
+    "ai_witness_id": 10061,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2949,
+    "ai_witness_id": 10063,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2950,
+    "ai_witness_id": 10065,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2951,
+    "ai_witness_id": 10067,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2952,
+    "ai_witness_id": 10069,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2953,
+    "ai_witness_id": 10071,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2954,
+    "ai_witness_id": 10073,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2955,
+    "ai_witness_id": 10075,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2956,
+    "ai_witness_id": 10077,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2958,
+    "ai_witness_id": 10081,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2959,
+    "ai_witness_id": 10083,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2960,
+    "ai_witness_id": 10085,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2961,
+    "ai_witness_id": 10087,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2962,
+    "ai_witness_id": 10089,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2963,
+    "ai_witness_id": 10091,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2965,
+    "ai_witness_id": 10095,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2966,
+    "ai_witness_id": 10097,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2967,
+    "ai_witness_id": 10099,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2968,
+    "ai_witness_id": 10101,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2969,
+    "ai_witness_id": 10103,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2970,
+    "ai_witness_id": 10105,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2971,
+    "ai_witness_id": 10107,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2972,
+    "ai_witness_id": 10109,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2973,
+    "ai_witness_id": 10111,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2974,
+    "ai_witness_id": 10113,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2975,
+    "ai_witness_id": 10115,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2976,
+    "ai_witness_id": 10117,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2977,
+    "ai_witness_id": 10119,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2978,
+    "ai_witness_id": 10121,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2979,
+    "ai_witness_id": 10123,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2980,
+    "ai_witness_id": 10125,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2981,
+    "ai_witness_id": 10127,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2982,
+    "ai_witness_id": 10129,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2983,
+    "ai_witness_id": 10131,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2984,
+    "ai_witness_id": 10133,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2985,
+    "ai_witness_id": 10135,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2986,
+    "ai_witness_id": 10137,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2987,
+    "ai_witness_id": 10139,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2988,
+    "ai_witness_id": 10141,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2989,
+    "ai_witness_id": 10143,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2990,
+    "ai_witness_id": 10145,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2991,
+    "ai_witness_id": 10147,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2992,
+    "ai_witness_id": 10149,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2993,
+    "ai_witness_id": 10151,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2994,
+    "ai_witness_id": 10153,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2995,
+    "ai_witness_id": 10155,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2996,
+    "ai_witness_id": 10157,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 2998,
+    "ai_witness_id": 10161,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 2999,
+    "ai_witness_id": 10163,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3001,
+    "ai_witness_id": 10167,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3002,
+    "ai_witness_id": 10169,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3003,
+    "ai_witness_id": 10171,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3004,
+    "ai_witness_id": 10173,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3005,
+    "ai_witness_id": 10175,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3006,
+    "ai_witness_id": 10177,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3007,
+    "ai_witness_id": 10179,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3008,
+    "ai_witness_id": 10181,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3009,
+    "ai_witness_id": 10183,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3010,
+    "ai_witness_id": 10185,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3011,
+    "ai_witness_id": 10187,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3012,
+    "ai_witness_id": 10189,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3013,
+    "ai_witness_id": 10191,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3014,
+    "ai_witness_id": 10193,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3015,
+    "ai_witness_id": 10195,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3016,
+    "ai_witness_id": 10197,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3018,
+    "ai_witness_id": 10201,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3019,
+    "ai_witness_id": 10203,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3020,
+    "ai_witness_id": 10205,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3021,
+    "ai_witness_id": 10207,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3022,
+    "ai_witness_id": 10209,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3023,
+    "ai_witness_id": 10211,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3024,
+    "ai_witness_id": 10213,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3025,
+    "ai_witness_id": 10216,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3026,
+    "ai_witness_id": 10219,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3027,
+    "ai_witness_id": 10223,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3028,
+    "ai_witness_id": 10227,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3029,
+    "ai_witness_id": 10231,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3030,
+    "ai_witness_id": 10235,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3031,
+    "ai_witness_id": 10239,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3032,
+    "ai_witness_id": 10244,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3033,
+    "ai_witness_id": 10247,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3034,
+    "ai_witness_id": 10251,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3035,
+    "ai_witness_id": 10256,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3036,
+    "ai_witness_id": 10259,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3037,
+    "ai_witness_id": 10264,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3038,
+    "ai_witness_id": 10267,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3039,
+    "ai_witness_id": 10272,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3040,
+    "ai_witness_id": 10274,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3041,
+    "ai_witness_id": 10276,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3042,
+    "ai_witness_id": 10278,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3043,
+    "ai_witness_id": 10280,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3044,
+    "ai_witness_id": 10282,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3045,
+    "ai_witness_id": 10284,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3046,
+    "ai_witness_id": 10286,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3047,
+    "ai_witness_id": 10288,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3048,
+    "ai_witness_id": 10290,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3049,
+    "ai_witness_id": 10292,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3050,
+    "ai_witness_id": 10294,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3051,
+    "ai_witness_id": 10296,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3052,
+    "ai_witness_id": 10298,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3053,
+    "ai_witness_id": 10300,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3054,
+    "ai_witness_id": 10302,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3055,
+    "ai_witness_id": 10304,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3056,
+    "ai_witness_id": 10306,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3057,
+    "ai_witness_id": 10308,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3058,
+    "ai_witness_id": 10310,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3059,
+    "ai_witness_id": 10312,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3060,
+    "ai_witness_id": 10314,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3061,
+    "ai_witness_id": 10316,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3062,
+    "ai_witness_id": 10318,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3063,
+    "ai_witness_id": 10320,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3064,
+    "ai_witness_id": 10322,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3065,
+    "ai_witness_id": 10324,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3066,
+    "ai_witness_id": 10326,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3067,
+    "ai_witness_id": 10328,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3068,
+    "ai_witness_id": 10330,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3069,
+    "ai_witness_id": 10332,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3070,
+    "ai_witness_id": 10334,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3071,
+    "ai_witness_id": 10336,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3072,
+    "ai_witness_id": 10338,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3073,
+    "ai_witness_id": 10340,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3074,
+    "ai_witness_id": 10342,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3075,
+    "ai_witness_id": 10344,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3076,
+    "ai_witness_id": 10346,
+    "llm_response": "B",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3077,
+    "ai_witness_id": 10348,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3078,
+    "ai_witness_id": 10350,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3079,
+    "ai_witness_id": 10352,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3080,
+    "ai_witness_id": 10354,
+    "llm_response": "A",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3081,
+    "ai_witness_id": 10356,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3082,
+    "ai_witness_id": 10358,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3083,
+    "ai_witness_id": 10360,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3084,
+    "ai_witness_id": 10362,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3085,
+    "ai_witness_id": 10364,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3086,
+    "ai_witness_id": 10366,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3087,
+    "ai_witness_id": 10368,
+    "llm_response": "B",
+    "human_label": "A"
+  },
+  {
+    "game_id": 3088,
+    "ai_witness_id": 10370,
+    "llm_response": "A",
+    "human_label": "B"
+  },
+  {
+    "game_id": 3089,
+    "ai_witness_id": 10372,
+    "llm_response": "A",
+    "human_label": "A"
+  }
+]
